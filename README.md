@@ -5,26 +5,15 @@
 
 ## Bio
 
-I'm seeking Data Science or Data Engineering roles at Computer and Technology companies and am the perfect fit for these role because I have project management and cross-functional team leadership skills using technical tools including R, Python, and Git. Utilizing these skills, I have worked with 9 collaborations.
+I'm a Data Scientist with project management and cross-functional team leadership skills using technical tools including R, Python, and Git. Utilizing these skills, I have worked with 9 collaborations across many different STEM fields. My favorite thing about my work is when I can sink my teeth into an interesting technical problem, whether it is figuring out what some data is telling me or drafting a paper, talk, or diagram which can help me explain some interesting idea that I have found.
 
-In my role as team leader, I was responsible for training junior team members in using R, Python, and Git, in addition to getting them familiar with the context of the project. Then I supported them as they worked on their project, setting deadlines, monitoring progress, and preparing them to share the project with appropriate stakeholders.
+## Projects
+- I have used network analysis and networks to describe many systems including:
+	- [Social Networks of students in classrooms](https://doi.org/10.1007/s41109-022-00465-z). As a part of this project, I also contributed to the [`concorR` package](https://github.com/ATraxLab/concorR)
+	- [Ways of sorting physics problems](http://link.aps.org/doi/10.1103/PhysRevSTPER.8.020116)
+	- [Response patterns on physics exams](https://www.compadre.org/Repository/document/ServeFile.cfm?ID=14851&DocID=4998)
+- I have applied [survival analysis techniques](https://doi.org/10.18084/1084-7219.25.1.165) to describe student pathways through college.
+- I've been doing other work, including #TidyTuesday visualizations, and have been posting about them [on my pages site](https://datawolf04.github.io)
 
-- High-level technical, statistical, and computer skills with experience working with R, Python, Jupyter, Mathematica, bash script, LATEX, Cluster Computing, PowerPoint, and Excel, as demonstrated by 25 peer-reviewed publications and 32 national conference presentations and 1 software package.
-- Strong communication skills in the area of presenting scientific data and concepts combined with the ability to create a diverse team-oriented environment as demonstrated by teaching college physics courses across the undergraduate curriculum to classes ranging in size from 3 students to over 100 students at 4 institutions utilizing active, interactive learning techniques.
-- Scientific leader with experience working independently, and with teams, utilizing a broad scientific knowledgebase, as evidenced by working with 9 collaborations across multiple STEM disciplines.
 
 
-<!--
-**datawolf04/datawolf04** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
